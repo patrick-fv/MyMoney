@@ -1,7 +1,5 @@
 # `MyMoney - DevPleno`
 
-[Acessar aplicação](https://mymoney-a586c.firebaseapp.com/)
-
 ## `Imagens`
 [![](./images/image1.png)]('https://github.com/patrick-fv/my-money/blob/master/images/image1.png?raw=true')
 
